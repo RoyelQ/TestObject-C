@@ -1,0 +1,36 @@
+//
+//  PrefixHeader.pch
+//  Interpret
+//
+//  Created by 乔杰 on 2018/1/30.
+//  Copyright © 2018年 乔杰. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "AppDelegate.h"
+
+#import "LoginUser.h"
+#import "H5ViewController.h"
+#import "LoginViewController.h"
+
+#import "RDVTabBar.h"
+#import "RDVTabBarItem.h"
+#import "RDVTabBarController.h"
+
+#import "ApiMacro.h"
+#import "ColorMacro.h"
+#import "LayoutMacro.h"
+#import "AppMacro.h"
+
+
+#import "ImageHelper.h"
+#import "TransfNilHelper.h"
+#import "UIButton+Block.h"
+#import "StringHelper.h"
+#import "QJAlertSimple.h"
+
+
+
+#endif /* PrefixHeader_pch */
